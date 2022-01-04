@@ -1,8 +1,8 @@
 ### Hi there I'm André Cardoso👋
 
 ## I'm a Computer Science Student at IPCA
-- 🔭 I’m currently working on a side project, a Management App.
-- 🌱 I’m currently learning JavaScript (Express.js & Passport.js)
+- 🔭 I’m also working on a side project, a Management App.
+- 🌱 I’m currently learning AI and Machine Learning
 - 👯 I’m looking to expand my knowledge especially on the CyberSecurity field.
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
@@ -13,6 +13,7 @@
 ### Languages and Tools
 - C, C#
 - Python
+- Node.Js (Express, Passport)
 - Git
 
 <!--
